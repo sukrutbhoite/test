@@ -4,7 +4,7 @@ package com.lti.javajdbc;
 
 import java.sql.*;
 
- 
+//adding a comment to check jenkis
 
 
 public class JDBCDemo {
